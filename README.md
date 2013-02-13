@@ -57,11 +57,11 @@ repl.start({
 #### 2. Visit http://youip:8000/ and see events arrive :-)
 
 ```javascript
-[Tracker] Event received: { type: 'pageview_home', ip: '127.0.0.1', _ts: 1360188808356 }
+[Tracker] Event received: { type: 'pageview_home', ip: '127.0.0.1', time: 1360188808356 }
 [Tracker] eventCount: 1
 [Tracker] receiverErrorCount: 0
 REPL> console.log(events);
-[ { type: 'pageview_home', ip: '127.0.0.1', _ts: 1360188808356 } ]
+[ { type: 'pageview_home', ip: '127.0.0.1', time: 1360188808356 } ]
 ```
 
 ### Distributed example
