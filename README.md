@@ -14,8 +14,9 @@ This module is not battle-proven yet and to be considered as alpha.
 
 ## Features
 
-- Distributable (Send events from one tracker instance to another over the network)
-- Modular (write your own event store/receiver!)
+- **Distributable** (Send events from one tracker instance to another over the network)
+- **Modular** (write your own event store/receiver!)
+- Comes with an **Express Middleware**
 
 ## Example
 
