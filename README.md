@@ -94,6 +94,10 @@ var tracker = new trackable.Tracker({
 
 ## Changelog
 
+### v0.0.2
+
+Added express middleware
+
 ### v0.0.1
 
 Initial commit
