@@ -1,6 +1,6 @@
 {
   "name": "trackable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple, modular node.js module for distributed app usage tracking.",
   "main": "index.js",
   "dependencies": {

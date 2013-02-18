@@ -94,6 +94,10 @@ var tracker = new trackable.Tracker({
 
 ## Changelog
 
+### v0.0.3
+
+Smaller fixes
+
 ### v0.0.2
 
 Added express middleware
